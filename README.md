@@ -1,0 +1,1 @@
+# Student_competency_score_classification_model_using_KoBert
