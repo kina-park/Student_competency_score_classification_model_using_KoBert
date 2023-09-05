@@ -66,7 +66,7 @@
     |dr_rate|0.3|
 
 * 아래 그림에서 점선으로 & 회색 색상으로 표시한 부분이 본 연구의 모델 학습에 해당한다.   
-<br><img src="/assets/images/model training.jpg" width="90%" height="90%" title="oversampling"/>
+<br>![model training](https://github.com/kina-park/Student_competency_score_classification_model_using_KoBert/assets/129723313/141c37ce-d5b1-4080-afa0-c839a09aa89b)
 
 ### 4. 모델 평가
 
