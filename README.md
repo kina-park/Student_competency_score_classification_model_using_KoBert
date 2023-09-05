@@ -36,7 +36,7 @@
 
 * 데이터 탐색적 분석 결과, 클래스 불균형이 다소 심한 문제가 있어 5개의 클래스(1: 매우 낮음, 2: 낮음, 3: 관측 안됨, 4: 높음, 5: 매우 높음)를 3개의 클래스(0: 매우 낮음, 낮음, 1: 관측 안됨, 2: 높음, 매우 높음)로 일차 재구성하였다. 
 * 그럼에도 불구하고, 클래스 불균형 문제가 해소되지 않은 관계로 대표적인 오버샘플링 기법인 SMOTE를 적용하여, 소수 클래스의 샘플 개수를 조정해 데이터셋의 균형을 도모하였다. 그 결과, 클래스별 분포는 아래 그림과 같다.  <br/>
-<br><img src="/assets/images/oversamp.png" width="100%" height="100%" title="oversampling"/>  
+<br>![oversamp](https://github.com/kina-park/Student_competency_score_classification_model_using_KoBert/assets/129723313/f036341a-2296-4b97-877d-ddcc0f3e3f45)
 
 (3) 데이터셋 재구조화
 
